@@ -1,5 +1,3 @@
-# Projekti im i pare
-Kodi iri:
 
     let x = 100
     console.log(x)
